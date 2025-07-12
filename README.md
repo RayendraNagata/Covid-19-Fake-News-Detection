@@ -48,7 +48,7 @@ nltk>=3.8.0
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/RayendraNagata/Covid-19-Fake-News-Detection.git
    cd "Covid 19 Fake News Classification"
    ```
 
